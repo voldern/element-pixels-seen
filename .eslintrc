@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb-base",
+  "env": {
+    "jasmine": true,
+    "browser": true
+  },
+  "rules": {
+    "indent": ["error", 4]
+  }
+}
