@@ -1,6 +1,6 @@
 {
   "name": "element-pixels-seen",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "How many pixels of an element has potentially been seen",
   "main": "dist/index.js",
   "scripts": {
