@@ -1,8 +1,8 @@
 {
   "name": "element-pixels-seen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "How many pixels of an element has potentially been seen",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "mkdir -p dist && babel --presets es2015 index.js > dist/index.js",
     "prepublish": "npm run build",
